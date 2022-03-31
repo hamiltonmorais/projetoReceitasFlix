@@ -57,19 +57,20 @@ header nav a:hover{
 }
 
 .receita-principal .descricao{
-  margin-top: 10px;
-  margin-left: 10px;
+  margin: 10px 0px 10px 20px;
 }
 
 .receita-principal .titulo{
-  margin-top: 15%;
-  margin-left: 10px;
+  margin: 10px 0px 10px 20px;
   font-size: 40px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .receita-principal .container{
   width:50%;
+}
+.receita-principal .botoes{
+  margin: 5px 0px 10px 5px;
 }
 
 .botao{
